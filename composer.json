@@ -1,0 +1,12 @@
+{
+    "name": "the1984/php-curl",
+    "description": "Объектная обертка над CURL.",
+    "type": "project",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Curl\\": "src"
+        }
+    },
+    "require": {}
+}

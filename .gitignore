@@ -1,0 +1,5 @@
+/php_interface
+/vendor
+/composer.lock
+*.sublime-workspace
+test*
