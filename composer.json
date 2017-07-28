@@ -1,7 +1,7 @@
 {
     "name": "gm/php-curl",
     "description": "Объектная обертка над CURL.",
-    "type": "project",
+    "type": "library",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
